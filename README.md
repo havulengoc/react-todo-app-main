@@ -9,7 +9,7 @@ A complete todo application with all features.
 
 ---
 
-### Made with ❤️ by Ngoc Ha Vu
+### Made by Ngoc Ha Vu
 
 This is my first project using React. If there's any problem, please contact me via vulengocha@gmail.com.
 
